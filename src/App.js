@@ -1,10 +1,10 @@
 import "./App.css";
-import PersonIcon from "@material-ui/icons/Person";
+import Header from "./Header";
 
 function App() {
   return (
     <div className="app">
-      <PersonIcon />
+      <Header />
     </div>
   );
 }

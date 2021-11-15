@@ -15,7 +15,7 @@ function Header() {
       <img src={tinder_logo} alt="tinder-logo-img" className="header__logo" />
 
       <IconButton>
-        <ForumIcon />
+        <ForumIcon fontSize="large" className="header__icon" />
       </IconButton>
     </div>
   );
